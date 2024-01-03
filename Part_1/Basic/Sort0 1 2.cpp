@@ -1,4 +1,4 @@
-/*You have been given an integer array/list(ARR) of size 'N'. It only contains 0s, 1s and 2s. Write a solution to sort this array/list.*/
+/*You have been given an integer array/list(ARR) of size 'N'. It only contains 0s, 1s and 2s. Write a solution to sort this array.*/
 
 #include <bits/stdc++.h> 
 void sort012(int *arr, int n)
