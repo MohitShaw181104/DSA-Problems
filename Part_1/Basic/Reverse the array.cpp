@@ -3,7 +3,7 @@
 Example:
 
 We have an array ARR = {1, 2, 3, 4, 5, 6} and M = 3 , considering 0 
-based indexing so the subarray {5, 6} will be reversed and our 
+based indexing the subarray {5, 6} will be reversed and our 
 output array will be {1, 2, 3, 4, 6, 5}.*/
 
 void reverseArray(vector<int> &arr , int m){
