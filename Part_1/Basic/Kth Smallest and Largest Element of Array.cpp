@@ -3,9 +3,11 @@
 Example:
 
 Let ‘N’ = 4,  ‘Arr’ be [1, 2, 5, 4] and ‘K’ = 3.  
-then the elements of this array in ascending order is [1, 2, 4, 5].  Clearly, the 3rd smallest and largest element of this array is 4 and 2 respectively.*/
+then elements of this array in ascending order is [1, 2, 4, 5].  Clearly, the 3rd smallest and largest element of this array is 4 and 2 respectively.*/
 
-#include<bits/stdc++.h>
+
+#include <bits/stdc++.h>
+
 vector<int> kthSmallLarge(vector<int> &arr, int n, int k)
 {
 	// Write your code here.
